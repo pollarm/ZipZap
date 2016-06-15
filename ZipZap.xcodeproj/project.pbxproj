@@ -764,6 +764,9 @@
 				TargetAttributes = {
 					D87BA1F71B3D6DEA00ED7EB3 = {
 						CreatedOnToolsVersion = 6.3.2;
+						DevelopmentTeam = H36662PMTB;
+						DevelopmentTeamName = "Betware Limited";
+						LastSwiftMigration = 0800;
 					};
 					D8D140D21B423B1100C411B0 = {
 						CreatedOnToolsVersion = 6.3.2;
@@ -1132,6 +1135,7 @@
 				PRODUCT_NAME = ZipZap;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Debug;
 		};
@@ -1157,6 +1161,7 @@
 				PRODUCT_NAME = ZipZap;
 				SDKROOT = iphoneos;
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 2.3;
 			};
 			name = Release;
 		};
